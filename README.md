@@ -1,1 +1,19 @@
 # geekble
+긱블 말랑이체
+
+<pre>
+@font-face {
+    font-family: "geekble";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/geekble/geekble.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/geekble/geekble.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/geekble/geekble.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/geekble/geekble.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/geekble/geekble.ttf") format("truetype");
+    font-display: swap;
+} 
+.geekble {
+    font-family: "geekble";
+}
+</pre>
